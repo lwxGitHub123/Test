@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="two_num_sum1",
+    name="addTest",
     version="0.2",
     license="MIT Licence",
 
